@@ -1,5 +1,5 @@
 {
-  "realm" : "master",
-  "auth-server-url" : "<SERVER_URL>/auth",
+  "realm" : "demojs",
+  "auth-server-url" : "https://sso-evals41-sso-kubernetes-workshop.apps.sso-da42.open.redhat.com/auth",
   "resource" : "js-console"
 }
